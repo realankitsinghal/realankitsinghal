@@ -1,6 +1,6 @@
 # Welcome to Ankit Singhal's GitHub Profile!
 
-![Ankit Singhal](https://github.com/realankitsinghal/ankit/raw/main/Colorful%20Shapes%20Header%20Banner.png)
+![Ankit Singhal](https://raw.githubusercontent.com/realankitsinghal/realankitsinghal/main/Colorful%20Shapes%20Header%20Banner.png)
 
 
 ## Hi there! 👋
